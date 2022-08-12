@@ -6,8 +6,17 @@
             "custom/dumpsoftwareversions": {
                 "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
             },
+            "fastp": {
+                "git_sha": "7e8ad566883449e7939062b5e2bcf53fc1e0002f"
+            },
             "fastqc": {
                 "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
+            },
+            "krona/ktimporttext": {
+                "git_sha": "cdefbec66999c0b49d8bfeea9d6f9d19056635a2"
+            },
+            "metaphlan3": {
+                "git_sha": "ed4dd1a928ebf4308efb720de878045f7773f8e2"
             },
             "multiqc": {
                 "git_sha": "e745e167c1020928ef20ea1397b6b4d230681b4d"
